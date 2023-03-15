@@ -1,6 +1,6 @@
 # crudapp
 
-A new Flutter project.
+A new Flutter project which teaches how to use basic firebase and integrate it with flutter apps
 
 ## Getting Started
 
